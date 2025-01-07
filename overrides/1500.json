@@ -82,6 +82,11 @@
     "weight": 1
   },
   {
+    "speciesId": "bruxish",
+    "fastMove": "CONFUSION",
+    "weight": 1
+  },
+  {
     "speciesId": "castform_snowy",
     "weight": 3
   },
@@ -287,6 +292,16 @@
     "speciesId": "greninja",
     "fastMove": "WATER_SHURIKEN",
     "chargedMoves": ["HYDRO_CANNON","NIGHT_SLASH"],
+    "weight": 1
+  },
+  {
+    "speciesId": "grimer",
+    "fastMove": "MUD_SLAP",
+    "weight": 1
+  },
+  {
+    "speciesId": "grimer_shadow",
+    "fastMove": "MUD_SLAP",
     "weight": 1
   },
   {
