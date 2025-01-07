@@ -209,7 +209,13 @@
     "weight": 1
   },
   {
+    "speciesId": "gengar",
+    "chargedMoves": ["SHADOW_PUNCH","SHADOW_BALL"],
+    "weight": 1
+  },
+  {
     "speciesId": "gengar_shadow",
+    "chargedMoves": ["SHADOW_PUNCH","SHADOW_BALL"],
     "weight": 4
   },
   {
@@ -386,6 +392,11 @@
     "weight": 1
   },
   {
+    "speciesId": "milotic",
+    "chargedMoves": ["SURF","HYPER_BEAM"],
+    "weight": 1
+  },
+  {
     "speciesId": "mr_rime",
     "fastMove": "CONFUSION",
     "chargedMoves": ["ICY_WIND","PSYCHIC"],
@@ -433,7 +444,7 @@
     "weight": 1
   },
   {
-    "speciesId": "nidorina",
+    "speciesId": "nidorina_shadow",
     "fastMove": "POISON_STING",
     "chargedMoves": ["POISON_FANG","THUNDERBOLT"],
     "weight": 1
